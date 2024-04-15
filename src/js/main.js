@@ -55,20 +55,20 @@ if (age!= Number){
 // console.info("Full information:", userName, lastName, age, email, phoneNumber, address)
 // console.info(`Full name: ${userName} ${lastName}, Age: ${age}, email:${email}, phoneNumber:${phoneNumber}, address:${address}`)
 
-// Agrupar varios console
-// console.group("Data Basic")
-//     console.info(userName)
-//     console.info(lastName)
-//     console.info(age)
-// console.groupEnd()
+Agrupar varios console
+console.group("Data Basic")
+console.info(userName)
+console.info(lastName)
+console.info(age)
+console.groupEnd()
 
-// console.group("Data Contact")
-//     console.info(email)
-//     console.info(phoneNumber)
-//     console.info(address)
-// console.groupEnd()
+// // console.group("Data Contact")
+// //     console.info(email)
+// //     console.info(phoneNumber)
+// //     console.info(address)
+// // console.groupEnd()
 
-// // Imprimir una lista
-// const coders=["Lupe Ortiz","Mateo Duarte","Maria Antonieta"]
-// console.info(coders)
-// console.table(coders)
+// // // Imprimir una lista
+// // const coders=["Lupe Ortiz","Mateo Duarte","Maria Antonieta"]
+// // console.info(coders)
+// // console.table(coders)
