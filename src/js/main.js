@@ -55,7 +55,7 @@ if (age!= Number){
 // console.info("Full information:", userName, lastName, age, email, phoneNumber, address)
 // console.info(`Full name: ${userName} ${lastName}, Age: ${age}, email:${email}, phoneNumber:${phoneNumber}, address:${address}`)
 
-Agrupar varios console
+// Agrupar varios console
 console.group("Data Basic")
 console.info(userName)
 console.info(lastName)
